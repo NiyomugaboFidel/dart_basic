@@ -171,7 +171,7 @@ void main() async {
   print(data);
 }
 ```
-## 9.1 Asynchronous Programming ot make http request in dart (fetch data)
+## 9.1 fetch data in dart
 ``` dart
 import 'dart:convert' as convert;
 import 'package:http/http.dart' as http;
