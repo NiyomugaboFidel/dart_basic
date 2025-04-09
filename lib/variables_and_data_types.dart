@@ -5,5 +5,5 @@ void main() {
   bool isAlive = true;
   dynamic anything = 'Can be any type';
 
-  print('$name is $age years old. Price: \$${price}');
+  print('$name is $age years old. Price: \$$price');
 }
